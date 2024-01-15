@@ -1,3 +1,5 @@
+# WIP
+
 ##  Notice: HorizonXI Specifics
 
 Due to the HorizonXI private server changing the level requirements for some spells/abilities, this is going to cause conflicts with this addon.
